@@ -606,7 +606,7 @@ footer a {
 .go {
     box-sizing: border-box;
     padding: 90px;
-    background: url(/images/header_images/go_header.jpg);
+    background: url(/fgx-website/images/header_images/go_header.jpg);
     background-size: cover;
 }
 
@@ -738,7 +738,7 @@ footer a {
 /* Business */
 
 #business-header {
-    background: url(/images/header_images/business_header.jpg);
+    background: url(/fgx-website/images/header_images/business_header.jpg);
 }
 
 #business-features {
@@ -751,7 +751,7 @@ footer a {
 .cta-banner {
     box-sizing: border-box;
     padding: 90px;
-    background: url(/images/business_images/cta.jpg);
+    background: url(/fgx-website/images/business_images/cta.jpg);
     background-size: cover;
     color: var(--white);
 }
