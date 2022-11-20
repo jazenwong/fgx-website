@@ -603,7 +603,7 @@ footer a {
 .go {
     box-sizing: border-box;
     padding: 90px;
-    background: url(/fgx-website/images/header_images/go_header.jpg);
+    background: url(https://media.publit.io/file/sitewide/headers/go_header.jpg);
     background-size: cover;
 }
 
@@ -735,7 +735,7 @@ footer a {
 /* Business */
 
 #business-header {
-    background: url(/fgx-website/images/header_images/business_header.jpg);
+    background: url(https://media.publit.io/file/sitewide/headers/business_header.jpg);
 }
 
 #business-features {
@@ -748,7 +748,7 @@ footer a {
 .cta-banner {
     box-sizing: border-box;
     padding: 90px;
-    background: url(/fgx-website/images/business_images/cta.jpg);
+    background: url(https://media.publit.io/file/sitewide/cta.jpg);
     background-size: cover;
     color: var(--white);
 }
